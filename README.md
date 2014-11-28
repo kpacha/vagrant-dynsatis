@@ -23,3 +23,5 @@ $ echo '127.0.0.1	dev.dynsatis.local dynsatis.local' | sudo tee -a /etc/hosts > 
 And you're ready to work!
 
 Check the environment by browsing http://dev.dynsatis.local:8888 or http://dynsatis.local:8888
+
+Visit [puppet-dynsatis](https://github.com/kpacha/puppet-dynsatis) and [dynsatis](https://github.com/kpacha/dynsatis) for more details
