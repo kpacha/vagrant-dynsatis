@@ -1,0 +1,2 @@
+dynsatis::host: dynsatis.local
+dynsatis::devmode: true

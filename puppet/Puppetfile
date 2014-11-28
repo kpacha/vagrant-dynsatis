@@ -1,0 +1,4 @@
+forge "https://forgeapi.puppetlabs.com"
+
+mod "kpacha-dynsatis",
+  :git => 'git://github.com/kpacha/puppet-dynsatis.git'
