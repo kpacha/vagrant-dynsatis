@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# this script is based on https://github.com/purple52/librarian-puppet-vagrant/blob/master/shell/librarian-puppet.sh
+
 # Check the received options in order to set up some variables
 PREFER_PACKAGE=1
 while getopts ":g" opt; do
